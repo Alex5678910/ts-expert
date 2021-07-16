@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ts-expert/static/css/main.8db8ece4.chunk.css",
+    "main.js": "/ts-expert/static/js/main.a6e9a5b1.chunk.js",
+    "main.js.map": "/ts-expert/static/js/main.a6e9a5b1.chunk.js.map",
+    "runtime-main.js": "/ts-expert/static/js/runtime-main.0e13c1f3.js",
+    "runtime-main.js.map": "/ts-expert/static/js/runtime-main.0e13c1f3.js.map",
+    "static/js/2.4ff04a3a.chunk.js": "/ts-expert/static/js/2.4ff04a3a.chunk.js",
+    "static/js/2.4ff04a3a.chunk.js.map": "/ts-expert/static/js/2.4ff04a3a.chunk.js.map",
+    "static/js/3.b0de48a0.chunk.js": "/ts-expert/static/js/3.b0de48a0.chunk.js",
+    "static/js/3.b0de48a0.chunk.js.map": "/ts-expert/static/js/3.b0de48a0.chunk.js.map",
+    "index.html": "/ts-expert/index.html",
+    "static/css/main.8db8ece4.chunk.css.map": "/ts-expert/static/css/main.8db8ece4.chunk.css.map",
+    "static/js/2.4ff04a3a.chunk.js.LICENSE.txt": "/ts-expert/static/js/2.4ff04a3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e13c1f3.js",
+    "static/js/2.4ff04a3a.chunk.js",
+    "static/css/main.8db8ece4.chunk.css",
+    "static/js/main.a6e9a5b1.chunk.js"
+  ]
+}
